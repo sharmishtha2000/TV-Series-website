@@ -1,0 +1,58 @@
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=1051&q=80);
+	/*background-repeat: no-repeat;*/
+	background-attachment: fixed;
+	background-size: cover;
+	color: rgb(222,222,222) !important;
+	/*background-color: rgb(140,138,137) !important;*/
+}
+h4{
+	font-family: 'Noto Sans', sans-serif;
+}
+.navbar{
+	background-color: rgb(61,61,61) !important;
+}
+hr{
+	border-color: rgb(237,235,235,0.7) !important;
+}
+img{
+	/*width:250px;*/
+	height: 300px;
+	margin: 6%;
+}
+.jumbotron{
+	/*background-image: url(https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&auto=format&fit=crop&w=749&q=80);*/
+	margin-top: 20px;
+	font-family: 'Righteous', cursive;
+	font-family: 'Kanit', sans-serif;
+	/*color: white;*/
+	/*background-color: rgb(166, 242, 245);*/
+}
+.collapseShow{
+	height:10px !important;
+}
+p{
+	font-size:15px;
+	margin: 6%;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 600;
+}
+.card{
+	height: 895px;
+	margin:auto;
+	background-color: rgb(161,161,161,0.8) !important;
+	/*margin: 10px;*/
+}
+iframe{
+	margin-left:6%;
+	margin-right: 6%;
+	margin-bottom: 20px;
+	width:250px;
+	height: 240px;
+}
+.year{
+	/*font-weight: 550;*/
+	/*color: rgb(60,60,60);*/
+	color: rgb(222,222,222);
+}
